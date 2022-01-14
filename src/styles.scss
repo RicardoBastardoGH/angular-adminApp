@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+// SIDEBAR
+
+.sidebar-user-profile{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    border-radius:100%;
+  }
+
+  .group-menu-title {
+    color: #6C7383;
+    display: inline-block;
+    font-size: 12px;
+    line-height: 1;
+    vertical-align: middle;
+  }
+
+
+  .spacer {
+    flex: 1 1 auto;
+}
+
+.breadcrumb {
+    // border-radius: 0;
+    border: none;
+}
